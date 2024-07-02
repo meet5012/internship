@@ -460,8 +460,8 @@ body {
 }
 
 .education-content .content .year{
-    font-size: 1.5rem;
-    color :rgb(0, 0, 0);
+    font-size: 1rem;
+    color : linear-gradient(90deg, rgba(123,128,133,1) 6%, rgba(255,255,255,1) 100%);
     padding-bottom : .5rem;
 }
 .education-content .content .year i{
