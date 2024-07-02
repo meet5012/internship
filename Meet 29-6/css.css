@@ -323,6 +323,7 @@ body {
     text-align: right;
     }
     .skill {
+        flex-direction: column;
         height: 80vh;
         width: 100%;
         padding: 1cm;
