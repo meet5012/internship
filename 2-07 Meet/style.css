@@ -353,15 +353,20 @@ footer {
         margin-bottom: 30px;
     }
 
+    .about-company{
+        border-radius: 40vh 40vh 0 0;
+    }
     .about-container {
         flex-direction: column;
     }
 
     .about-title {
+        flex: none;
         width: 100%;
         height: auto;
+        border-radius: 40vh 40vh 0 0;
+        margin-left: 0;
         padding: 20px;
-        border-radius: 50px 50px 0 0;
     }
 
     .about-content p {
